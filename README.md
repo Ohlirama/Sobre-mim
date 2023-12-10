@@ -9,7 +9,7 @@ Olá, sou Erick Ohlirama, um narrador de histórias apaixonado por videogames e 
 
 Atualmente, estou me desenvolvendo nas seguintes linguagens e áreas:
 
-- 💻 **Linguagens:** JavaScript, Angular, React, Next, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, Express, Ajax, C++, GML, C, Java.
+- 💻 **Linguagens:** JavaScript, Angular, React, Next, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, Express, Ajax, C++, GML, C, Java, Python.
 - 🎨 **Arte:** Em processo de aprendizado em Pixel Art.
 - 🕵️ **Segurança:** Em curso para Ethical Hacking.
 
