@@ -30,7 +30,6 @@ Atualmente, estou me desenvolvendo nas seguintes linguagens e áreas:
 
 Você pode entrar em contato comigo através do e-mail: [erickoliveiraamarilho@gmail.com](mailto:erickoliveiraamarilho@gmail.com).
 
-![Party Time](https://media.tenor.com/FPmi7tLdPS0AAAAC/party-animal-party-hard.gif)
 ![Thor Cosplay](https://media.tenor.com/KHPGu_miRgMAAAAC/cosplay-thor.gif)
 
 Prazer em conhecê-lo, sou Ohlirama. E lembre-se: Trabalhe duro; Jogue mais.
