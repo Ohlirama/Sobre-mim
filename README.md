@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu Perfil! 🧑‍🚀
 
-Olá, sou Erick Ohlirama, um narrador de histórias apaixonado por videogames e filmes. E busco trazer ao mundo as maravilhas estranhamente perturbadoras e impressionantes que habitam minha mente
+Olá, sou Erick Ohlirama, um narrador de histórias apaixonado por videogames e filmes. E busco trazer ao mundo as maravilhas estranhamente perturbadoras e impressionantes que habitam em minha mente
 
 - 👨‍💻 Sou um Programador, Gamer, Programador de Jogos, Compositor, Estranho, Comediante e Autônomo.
 - 🚀 Fundador da Rocket Productions.
